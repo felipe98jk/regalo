@@ -146,7 +146,7 @@ body{
     font-size: 1rem;
     color: #111;
       position: relative;
-      margin: 150px 560px 0 auto;
+      margin: 150px 570px 0 auto;
       width: 350px;
 }
 
@@ -190,12 +190,4 @@ body{
       opacity: 1;
       top:0;
     }
-}
-
-@media (max-width: 480px) 
-{
-  .button
-  {
-    margin: auto;
-  }
 }
