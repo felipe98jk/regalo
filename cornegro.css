@@ -191,3 +191,11 @@ body{
       top:0;
     }
 }
+
+@media (max-width: 480px) 
+{
+  .button
+  {
+    margin: auto;
+  }
+}
